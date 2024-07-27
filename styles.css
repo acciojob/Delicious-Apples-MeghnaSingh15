@@ -1,1 +1,11 @@
 /* your code here */
+button{
+	color:white;
+	padding:8px;
+	border-radius:4px;
+	background-color:red;
+	font-size:8px;
+}
+.photo-album ul li img{
+	display:flex;
+}
